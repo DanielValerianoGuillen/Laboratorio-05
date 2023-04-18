@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\Nueva carpeta\DemoADONET2023\Entidad\bin\Debug\Entidad.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DemoADONET2023\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\DemoADONET2023\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DemoADONET2023\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\DemoADONET2023\Entidad\obj\Debug\Entidad.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\DemoADONET2023\Entidad\obj\Debug\Entidad.pdb
